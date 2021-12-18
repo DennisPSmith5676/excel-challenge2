@@ -43,11 +43,19 @@ Using the database provided, I modified and analyzed the data of 4,000 past Kick
 
   * Created a pivot chart line graph that visualizes this new table.
 
-* Created a report in Microsoft Word to answer the following questions.
+* Created a report in Microsoft Word to answer the following questions. see Excel Challenge Discussion Questions.doc
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
+
+##Excel Challenge Discussion Questions
+
+1.	Given the provided data, there are a few conclusions we can draw about Kickstarter campaigns. The first one is that Kickstarter campaigns are more likely to be successful than not if we look at all campaigns in general, without regarding the category they fall in. However, another conclusion we can come to is that Kickstarter campaigns in certain categories are more likely to be successful than others based on the data provided. Kickstarters that fall in the performing arts categories (theatre, music, plays) compose most campaigns and are also the most likely to be successful. However, campaigns specifically regarding food are more likely to fail than to succeed. 
+
+2.	Some of the limitations of the dataset are the number of campaigns in certain categories and sub-categories. Most successful sub-categories fall in the larger categories of theatre, music, and film/video. While these are the most successful categories, they also have the most overall number of campaigns. The least successful categories are a lot less abundant in number of campaigns than their successful counterparts. Food, games, journalism, publishing, and photography all have less than half of the number of campaigns than the most successful categories (theatre, music, and film/video) have.
+
+3.	See reports table 1 thru 10. We could create charts to visualize trends could include a pie chart using the total number of campaigns for each category. This chart would illustrate the overall composition of Kickstarter campaigns in general where we would see the majority composing of theatre, music and film/video. We could also create specific pie charts for each category illustrating the number of successes vs. the number of failures. Here we would be able to easily visualize which categories are most successful percentage-wise. We could also create a bar chart of categories and their total amounts pledged to see which categories acquire the most funding. One other chart we could create would be a bar chart illustrating number of successes and number of failures for certain ranges of campaign goals to see if there is a point at which campaigns are less likely to start being successful. 
 
 ## Further Analysis
 
@@ -95,17 +103,17 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 * Used Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 
-  * The mean number of backers.
+  * The mean number of backers. (see Backers Tab)
 
-  * The median number of backers.
+  * The median number of backers.(see Backers Tab)
 
-  * The minimum number of backers.
+  * The minimum number of backers.(see Backers Tab)
 
-  * The maximum number of backers.
+  * The maximum number of backers.(see Backers Tab)
 
-  * The variance of the number of backers.
+  * The variance of the number of backers.(see Backers Tab)
 
-  * The standard deviation of the number of backers.
+  * The standard deviation of the number of backers.(see Backers Tab)
 
 * Used data to determine whether the mean or the median summarizes the data more meaningfully.
 
