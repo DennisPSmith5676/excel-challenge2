@@ -7,7 +7,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this project, I organized and analyzed a database of 4,000 past projects in order to uncover any hidden trends by utilizing conditional formatting and pivot tables. 
 
 
-## Procedure
+## Procedures
 
 ![Kickstarter Table](Images/FullTable.png)
 
